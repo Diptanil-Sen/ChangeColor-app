@@ -41,17 +41,17 @@ ChangeColor-app
 <table>
 <tr>
 <td align="center">
-<img src="screenshots/home_screen.png" width="220"/><br>
+<img src="screenshots/01_home_screen.png" width="220"/><br>
 Home Screen
 </td>
 
 <td align="center">
-<img src="screenshots/red_screen.png" width="220"/><br>
+<img src="screenshots/02_red_screen.png" width="220"/><br>
 Red Background
 </td>
 
 <td align="center">
-<img src="screenshots/green_screen.png" width="220"/><br>
+<img src="screenshots/03_green_screen.png" width="220"/><br>
 Green Background
 </td>
 </tr>
